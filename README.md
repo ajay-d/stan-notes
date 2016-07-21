@@ -9,3 +9,4 @@ Notes from Stan class
 
 [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)  
 [Arbital Guide to Bayes's Rule](http://arbital.com/p/bayes_rule_guide)  
+[Bayesian Linear Mixed Models using Stan] (http://www.ling.uni-potsdam.de/~vasishth/statistics/BayesLMMs.html)  
