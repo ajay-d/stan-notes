@@ -18,3 +18,9 @@ Notes from Stan class
 ####Monte Carlo  
 -----  
 * [Markov Chain Monte Carlo Sampling](https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/)  
+
+####Model Based Machine Learning  
+-----  
+* [Model-based machine learning](http://rsta.royalsocietypublishing.org/content/371/1984/20120222/)  
+* [Model-based machine learning book](http://www.mbmlbook.com/)  
+* [An Introduction to Model-Based Machine Learning](https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/)  
